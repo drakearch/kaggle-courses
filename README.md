@@ -11,7 +11,7 @@ Calling functions and defining our own, and using Python's builtin documentation
 3. [Booleans and Conditionals](Python/3.%20Booleans%20and%20Conditionals.ipynb)  
 Using booleans for branching logic
 
-4. [Lists](Python/4.%20Lists.ipynb)  
+4. [Lists and Tuples](Python/4.%20Lists.ipynb)  
 Lists and the things you can do with them. Includes indexing, slicing and mutating
 
 5. [Loops and List Comprehensions](Python/5.%20Loops%20and%20List%20Comprehensions.ipynb)  
