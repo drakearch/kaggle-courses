@@ -22,3 +22,27 @@ Working with strings and dictionaries, two fundamental Python data types
 
 7. [Working with External Libraries](Python/7.%20Working%20with%20External%20Libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
+
+
+## Intro to Machine Learning
+
+1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
+The first step if you're new to machine learning
+
+2. [Basic Data Exploration](Intro%20to%20Machine%20Learning/2.%20Explore%20Your%20Data.ipynb)  
+Load and understand your data
+
+3. [Your First Machine Learning Model](Intro%20to%20Machine%20Learning/3.%20Your%20First%20Machine%20Learning%20Model.ipynb)   
+Building your first model. Hurray!
+
+4. [Model Validation](Intro%20to%20Machine%20Learning/4.%20Model%20Validation.ipynb)  
+Measure the performance of your model ? so you can test and compare alternatives
+
+5. [Underfitting and Overfitting](Intro%20to%20Machine%20Learning/5.%20Underfitting%20and%20Overfitting.ipynb)  
+Fine-tune your model for better performance.
+
+6. [Random Forests](Intro%20to%20Machine%20Learning/6.%20Random%20Forests.ipynb)  
+Using a more sophisticated machine learning algorithm.
+
+7. [Exercise: Machine Learning Competitions](Intro%20to%20Machine%20Learning/7.%20Machine%20Learning%20Competitions.ipynb)  
+Enter the world of machine learning competitions to keep improving and see your progress
