@@ -46,3 +46,27 @@ Using a more sophisticated machine learning algorithm.
 
 7. [Exercise: Machine Learning Competitions](Intro%20to%20Machine%20Learning/7.%20Machine%20Learning%20Competitions.ipynb)  
 Enter the world of machine learning competitions to keep improving and see your progress
+
+
+## Data Visualization
+
+1. [Hello, Seaborn](Data%20Visualization/1.%20Hello%2C%20Seaborn.ipynb)   
+Your first introduction to coding for data visualization
+
+2. [Line Charts](Data%20Visualization/2.%20Line%20Charts.ipynb)  
+Visualize trends over time
+
+3. [Bar Charts and Heatmaps](Data%20Visualization/3.%20Bar%20Charts%20and%20Heatmaps.ipynb)   
+Use color or length to compare categories in a dataset
+
+4. [Scatter Plots](Data%20Visualization/4.%20Scatter%20Plots.ipynb)  
+Leverage the coordinate plane to explore relationships between variables
+
+5. [Distributions](Data%20Visualization/5.%20Distributions.ipynb)  
+Create histograms and density plots
+
+6. [Choosing Plot Types and Custom Styles](Data%20Visualization/6.%20Choosing%20Plot%20Types%20and%20Custom%20Styles.ipynb)  
+Customize your charts and make them look snazzy
+
+7. [Final Project](Data%20Visualization/7.%20Final%20Project.ipynb)  
+Practice for real-world application
