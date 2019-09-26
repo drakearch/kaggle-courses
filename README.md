@@ -96,3 +96,22 @@ The most accurate modeling technique for structured data
 Find and fix this problem that ruins your model in subtle ways
 
 
+## Pandas
+
+1. [Exercise: Creating, Reading and Writing](Pandas/1.%20Creating%2C%20Reading%20and%20Writing.ipynb)   
+You can't work with data if you can't read it. Get started here.
+
+2. [Exercise: Indexing, Selecting & Assigning](Pandas/2.%20Indexing%2C%20Selecting%20%26%20Assigning.ipynb)  
+Pro data scientists do this dozens of times a day. You can, too!
+
+3. [Exercise: Summary Functions and Maps](Pandas/3.%20Summary%20Functions%20and%20Maps.ipynb)   
+Extract insights from your data.
+
+4. [Exercise: Grouping and Sorting](Pandas/4.%20Grouping%20and%20Sorting.ipynb)  
+Scale up your level of insight. The more complex the dataset, the more this matters
+
+5. [Exercise: Data Types and Missing Values](Pandas/5.%20Data%20Types%20and%20Missing%20Values.ipynb)  
+Deal with the most common progress-blocking problems
+
+6. [Exercise: Renaming and Combining](Pandas/6.%20Renaming%20and%20Combining.ipynb)  
+Data comes in from many sources. Help it all make sense together
