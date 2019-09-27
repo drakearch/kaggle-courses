@@ -96,3 +96,50 @@ The most accurate modeling technique for structured data
 Find and fix this problem that ruins your model in subtle ways
 
 
+## Pandas
+
+1. [Exercise: Creating, Reading and Writing](Pandas/1.%20Creating%2C%20Reading%20and%20Writing.ipynb)   
+You can't work with data if you can't read it. Get started here.
+
+2. [Exercise: Indexing, Selecting & Assigning](Pandas/2.%20Indexing%2C%20Selecting%20%26%20Assigning.ipynb)  
+Pro data scientists do this dozens of times a day. You can, too!
+
+3. [Exercise: Summary Functions and Maps](Pandas/3.%20Summary%20Functions%20and%20Maps.ipynb)   
+Extract insights from your data.
+
+4. [Exercise: Grouping and Sorting](Pandas/4.%20Grouping%20and%20Sorting.ipynb)  
+Scale up your level of insight. The more complex the dataset, the more this matters
+
+5. [Exercise: Data Types and Missing Values](Pandas/5.%20Data%20Types%20and%20Missing%20Values.ipynb)  
+Deal with the most common progress-blocking problems
+
+6. [Exercise: Renaming and Combining](Pandas/6.%20Renaming%20and%20Combining.ipynb)  
+Data comes in from many sources. Help it all make sense together
+
+
+
+## Deep Learning
+
+1. [Intro to DL for Computer Vision](Deep%20Learning/1.%20Intro%20to%20DL%20for%20Computer%20Vision.ipynb)   
+A quick overview of how models work on images.
+
+2. [Building Models From Convolutions](https://www.kaggle.com/dansbecker/building-models-from-convolutions)  
+Scale up from simple building blocks to models with beyond human capabilities.
+
+3. [TensorFlow Programming](Deep%20Learning/3.%20TensorFlow%20Programming.ipynb)   
+Start writing code using TensorFlow and Keras
+
+4. [Transfer Learning](Deep%20Learning/4.%20Transfer%20Learning.ipynb)  
+A powerful technique to build highly accurate models even with limited data.
+
+5. [Data Augmentation](Deep%20Learning/5.%20Data%20Augmentation.ipynb)  
+Learn a simple trick that effectively increases amount of data available for model training.
+
+6. [A Deeper Understanding of Deep Learning](https://www.kaggle.com/dansbecker/a-deeper-understanding-of-deep-learning)  
+How Stochastic Gradient Descent and Back-Propagation train your deep learning model.
+
+7. [Deep Learning From Scratch](Deep%20Learning/7.%20Deep%20Learning%20From%20Scratch.ipynb)  
+Build models without transfer learning. Especially important for uncommon image types.
+
+8. [Dropout and Strides for Larger Models](Deep%20Learning/8.%20Dropout%20and%20Strides%20for%20Larger%20Models.ipynb)  
+Make your models faster and reduce overfitting
