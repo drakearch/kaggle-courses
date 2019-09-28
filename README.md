@@ -164,3 +164,13 @@ Organize your query for better readability. This becomes especially important fo
 
 6. [Joining Data](Intro%20to%20SQL/6.%20Joining%20Data.ipynb)  
 Combine data sources. Critical for almost all real-world data problems
+
+
+## Microchallenges
+
+1. [Blackjack Microchallenge](Microchallenges/1.%20Blackjack%20Microchallenge.ipynb)   
+Test your logic and programming skills with by building a better BlackJack player
+
+2. [Airline Price Optimization Micro-Challenge](Microchallenges/2.%20Airline%20Price%20Optimization%20Micro-Challenge.ipynb)  
+Can you set the best airfare prices in our Airline Sales simulator  
+
