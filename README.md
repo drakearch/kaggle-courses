@@ -174,3 +174,22 @@ Test your logic and programming skills with by building a better BlackJack playe
 2. [Airline Price Optimization Micro-Challenge](Microchallenges/2.%20Airline%20Price%20Optimization%20Micro-Challenge.ipynb)  
 Can you set the best airfare prices in our Airline Sales simulator  
 
+
+## Machine Learning Explainability
+
+1. [Use Cases for Model Insights](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)   
+Why and when do you need insights?
+
+2. [Permutation Importance](Machine%20Learning%20Explainability/2.%20Permutation%20Importance.ipynb)  
+What features does your model think are important?
+
+3. [Partial Plots](Machine%20Learning%20Explainability/3.%20Partial%20Plots.ipynb)   
+How does each feature affect your predictions?
+
+4. [SHAP Values](Machine%20Learning%20Explainability/4.%20SHAP%20Values.ipynb)  
+Understand individual predictions
+
+5. [Advanced Uses of SHAP Values](Machine%20Learning%20Explainability/5.%20Advanced%20Uses%20of%20SHAP%20Values.ipynb)  
+Aggregate SHAP values for even more detailed model insights
+
+
