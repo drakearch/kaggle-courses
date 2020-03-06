@@ -2,25 +2,25 @@
 
 ## Python
 
-1. [Hello, Python](Python/01-syntax-variables-and-numbers.ipynb)  
+1. [Hello, Python](python/01-syntax-variables-and-numbers.ipynb)  
 A quick introduction to Python syntax, variable assignment, and numbers
 
-2. [Functions and Getting Help](Python/02-functions-and-getting-help.ipynb)  
+2. [Functions and Getting Help](python/02-functions-and-getting-help.ipynb)  
 Calling functions and defining our own, and using Python's builtin documentation
 
-3. [Booleans and Conditionals](Python/03-booleans-and-conditionals.ipynb)  
+3. [Booleans and Conditionals](python/03-booleans-and-conditionals.ipynb)  
 Using booleans for branching logic
 
-4. [Lists and Tuples](Python/04-lists.ipynb)  
+4. [Lists and Tuples](python/04-lists.ipynb)  
 Lists and the things you can do with them. Includes indexing, slicing and mutating
 
-5. [Loops and List Comprehensions](Python/05-loops-and-list-comprehensions.ipynb)  
+5. [Loops and List Comprehensions](python/05-loops-and-list-comprehensions.ipynb)  
 For and while loops, and a much-loved Python feature: list comprehensions
 
-6. [Strings and Dictionaries](Python/06-strings-and-dictionaries.ipynb)  
+6. [Strings and Dictionaries](python/06-strings-and-dictionaries.ipynb)  
 Working with strings and dictionaries, two fundamental Python data types
 
-7. [Working with External Libraries](Python/07-working-with-external-libraries.ipynb)  
+7. [Working with External Libraries](python/07-working-with-external-libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
 
@@ -29,22 +29,22 @@ Imports, operator overloading, and survival tips for venturing into the world of
 1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
 The first step if you're new to machine learning
 
-2. [Basic Data Exploration](Intro%20to%20Machine%20Learning/2.%20Explore%20Your%20Data.ipynb)  
+2. [Basic Data Exploration](intro_to_machine_learning/02-explore-your-data.ipynb)  
 Load and understand your data
 
-3. [Your First Machine Learning Model](Intro%20to%20Machine%20Learning/3.%20Your%20First%20Machine%20Learning%20Model.ipynb)   
+3. [Your First Machine Learning Model](intro_to_machine_learning/03-your-first-machine-learning-model.ipynb)   
 Building your first model. Hurray!
 
-4. [Model Validation](Intro%20to%20Machine%20Learning/4.%20Model%20Validation.ipynb)  
+4. [Model Validation](intro_to_machine_learning/04-model-validation.ipynb)  
 Measure the performance of your model ? so you can test and compare alternatives
 
-5. [Underfitting and Overfitting](Intro%20to%20Machine%20Learning/5.%20Underfitting%20and%20Overfitting.ipynb)  
+1. [Underfitting and Overfitting](intro_to_machine_learning/05-underfitting-and-overfitting.ipynb)  
 Fine-tune your model for better performance.
 
-6. [Random Forests](Intro%20to%20Machine%20Learning/6.%20Random%20Forests.ipynb)  
+6. [Random Forests](intro_to_machine_learning/06-random-forests.ipynb)  
 Using a more sophisticated machine learning algorithm.
 
-7. [Exercise: Machine Learning Competitions](Intro%20to%20Machine%20Learning/7.%20Machine%20Learning%20Competitions.ipynb)  
+7. [Exercise: Machine Learning Competitions](intro_to_machine_learning/07-machine-learning-competitions.ipynb)  
 Enter the world of machine learning competitions to keep improving and see your progress
 
 
