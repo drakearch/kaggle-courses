@@ -2,25 +2,25 @@
 
 ## Python
 
-1. [Hello, Python](Python/1.%20Syntax%2C%20Variables%2C%20and%20Numbers.ipynb)  
+1. [Hello, Python](Python/01-syntax-variables-and-numbers.ipynb)  
 A quick introduction to Python syntax, variable assignment, and numbers
 
-2. [Functions and Getting Help](Python/2.%20Functions%20and%20Getting%20Help.ipynb)  
+2. [Functions and Getting Help](Python/02-functions-and-getting-help.ipynb)  
 Calling functions and defining our own, and using Python's builtin documentation
 
-3. [Booleans and Conditionals](Python/3.%20Booleans%20and%20Conditionals.ipynb)  
+3. [Booleans and Conditionals](Python/03-booleans-and-conditionals.ipynb)  
 Using booleans for branching logic
 
-4. [Lists and Tuples](Python/4.%20Lists.ipynb)  
+4. [Lists and Tuples](Python/04-lists.ipynb)  
 Lists and the things you can do with them. Includes indexing, slicing and mutating
 
-5. [Loops and List Comprehensions](Python/5.%20Loops%20and%20List%20Comprehensions.ipynb)  
+5. [Loops and List Comprehensions](Python/05-loops-and-list-comprehensions.ipynb)  
 For and while loops, and a much-loved Python feature: list comprehensions
 
-6. [Strings and Dictionaries](Python/6.%20Strings%20and%20Dictionaries.ipynb)  
+6. [Strings and Dictionaries](Python/06-strings-and-dictionaries.ipynb)  
 Working with strings and dictionaries, two fundamental Python data types
 
-7. [Working with External Libraries](Python/7.%20Working%20with%20External%20Libraries.ipynb)  
+7. [Working with External Libraries](Python/07-working-with-external-libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
 
