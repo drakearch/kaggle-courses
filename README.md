@@ -74,25 +74,25 @@ Find and fix this problem that ruins your model in subtle ways
 
 ## Data Visualization
 
-1. [Hello, Seaborn](Data%20Visualization/1.%20Hello%2C%20Seaborn.ipynb)   
+1. [Hello, Seaborn](data_visualization/01-hello-seaborn.ipynb)   
 Your first introduction to coding for data visualization
 
-2. [Line Charts](Data%20Visualization/2.%20Line%20Charts.ipynb)  
+2. [Line Charts](data_visualization/02-line-charts.ipynb)  
 Visualize trends over time
 
-3. [Bar Charts and Heatmaps](Data%20Visualization/3.%20Bar%20Charts%20and%20Heatmaps.ipynb)   
+3. [Bar Charts and Heatmaps](data_visualization/03-bar-charts-and-heatmaps.ipynb)   
 Use color or length to compare categories in a dataset
 
-4. [Scatter Plots](Data%20Visualization/4.%20Scatter%20Plots.ipynb)  
+4. [Scatter Plots](data_visualization/04-scatter-plots.ipynb)  
 Leverage the coordinate plane to explore relationships between variables
 
-5. [Distributions](Data%20Visualization/5.%20Distributions.ipynb)  
+5. [Distributions](data_visualization/05-distributions.ipynb)  
 Create histograms and density plots
 
-6. [Choosing Plot Types and Custom Styles](Data%20Visualization/6.%20Choosing%20Plot%20Types%20and%20Custom%20Styles.ipynb)  
+6. [Choosing Plot Types and Custom Styles](data_visualization/06-choosing-plot-types-and-custom-styles.ipynb)  
 Customize your charts and make them look snazzy
 
-7. [Final Project](Data%20Visualization/7.%20Final%20Project.ipynb)  
+7. [Final Project](data_visualization/07-final-project.ipynb)  
 Practice for real-world application
 
 
