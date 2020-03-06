@@ -48,6 +48,30 @@ Using a more sophisticated machine learning algorithm.
 Enter the world of machine learning competitions to keep improving and see your progress
 
 
+## Intermediate Machine Learning
+
+1. [Introduction](intermediate_machine_learning/01-introduction.ipynb)   
+Review what you need for this Micro-Course
+
+2. [Missing Values](intermediate_machine_learning/02-missing-values.ipynb)  
+Missing values happen. Be prepared for this common challenge in real datasets.
+
+3. [Categorical Variables](intermediate_machine_learning/03-categorical-variables.ipynb)   
+There's a lot of non-numeric data out there. Here's how to use it for machine learning
+
+4. [Pipelines](intermediate_machine_learning/04-pipelines.ipynb)  
+A critical skill for deploying (and even testing) complex models with pre-processing
+
+5. [Cross-Validation](intermediate_machine_learning/05-cross-validation.ipynb)  
+A better way to test your models
+
+6. [XGBoost](intermediate_machine_learning/06-xgboost.ipynb)  
+The most accurate modeling technique for structured data
+
+7. [Data Leakage](intermediate_machine_learning/07-data-leakage.ipynb)  
+Find and fix this problem that ruins your model in subtle ways
+
+
 ## Data Visualization
 
 1. [Hello, Seaborn](Data%20Visualization/1.%20Hello%2C%20Seaborn.ipynb)   
@@ -70,30 +94,6 @@ Customize your charts and make them look snazzy
 
 7. [Final Project](Data%20Visualization/7.%20Final%20Project.ipynb)  
 Practice for real-world application
-
-
-## Intermediate Machine Learning
-
-1. [Introduction](Intermediate%20Machine%20Learning/1.%20Introduction.ipynb)   
-Review what you need for this Micro-Course
-
-2. [Missing Values](Intermediate%20Machine%20Learning/2.%20Missing%20Values.ipynb)  
-Missing values happen. Be prepared for this common challenge in real datasets.
-
-3. [Categorical Variables](Intermediate%20Machine%20Learning/3.%20Categorical%20Variables.ipynb)   
-There's a lot of non-numeric data out there. Here's how to use it for machine learning
-
-4. [Pipelines](Intermediate%20Machine%20Learning/4.%20Pipelines.ipynb)  
-A critical skill for deploying (and even testing) complex models with pre-processing
-
-5. [Cross-Validation](Intermediate%20Machine%20Learning/5.%20Cross-Validation.ipynb)  
-A better way to test your models
-
-6. [XGBoost](Intermediate%20Machine%20Learning/6.%20XGBoost.ipynb)  
-The most accurate modeling technique for structured data
-
-7. [Data Leakage](Intermediate%20Machine%20Learning/7.%20Data%20Leakage.ipynb)  
-Find and fix this problem that ruins your model in subtle ways
 
 
 ## Pandas
