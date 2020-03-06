@@ -98,22 +98,22 @@ Practice for real-world application
 
 ## Pandas
 
-1. [Exercise: Creating, Reading and Writing](Pandas/1.%20Creating%2C%20Reading%20and%20Writing.ipynb)   
+1. [Exercise: Creating, Reading and Writing](pandas/01-creating-reading-and-writing.ipynb)   
 You can't work with data if you can't read it. Get started here.
 
-2. [Exercise: Indexing, Selecting & Assigning](Pandas/2.%20Indexing%2C%20Selecting%20%26%20Assigning.ipynb)  
+2. [Exercise: Indexing, Selecting & Assigning](pandas/02-indexing-selecting-assigning.ipynb)  
 Pro data scientists do this dozens of times a day. You can, too!
 
-3. [Exercise: Summary Functions and Maps](Pandas/3.%20Summary%20Functions%20and%20Maps.ipynb)   
+3. [Exercise: Summary Functions and Maps](pandas/03-summary-functions-and-maps.ipynb)   
 Extract insights from your data.
 
-4. [Exercise: Grouping and Sorting](Pandas/4.%20Grouping%20and%20Sorting.ipynb)  
+4. [Exercise: Grouping and Sorting](pandas/04-grouping-and-sorting.ipynb)  
 Scale up your level of insight. The more complex the dataset, the more this matters
 
-5. [Exercise: Data Types and Missing Values](Pandas/5.%20Data%20Types%20and%20Missing%20Values.ipynb)  
+5. [Exercise: Data Types and Missing Values](pandas/05-data-types-and-missing-values.ipynb)  
 Deal with the most common progress-blocking problems
 
-6. [Exercise: Renaming and Combining](Pandas/6.%20Renaming%20and%20Combining.ipynb)  
+6. [Exercise: Renaming and Combining](pandas/06-renaming-and-combining.ipynb)  
 Data comes in from many sources. Help it all make sense together
 
 
