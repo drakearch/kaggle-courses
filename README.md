@@ -117,6 +117,20 @@ Deal with the most common progress-blocking problems
 Data comes in from many sources. Help it all make sense together
 
 
+## Feature Engineering
+
+1. [Baseline Model](feature_engineering/01-baseline-model.ipynb)   
+Building a baseline model as a starting point for feature engineering.
+
+2. [Categorical Encodings](feature_engineering/02-categorical-encodings.ipynb)  
+There are many ways to encode categorical data for modeling. Some are pretty clever.
+
+3. [Feature Generation](feature_engineering/03-summary-functions-and-maps.ipynb)   
+The frequently useful case where you can combine data from multiple rows into useful features.
+
+4. [Feature Selection](feature_engineering/04-grouping-and-sorting.ipynb)  
+You can make a lot of features. Here's how to get the best set of features for your model.
+
 
 ## Deep Learning
 
