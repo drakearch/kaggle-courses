@@ -162,13 +162,13 @@ Make your models faster and reduce overfitting
 ## Intro to SQL
 
 1. [Getting Started With SQL and BigQuery](intro_to_sql/01-getting-started-with-sql-and-bigquery.ipynb)   
-Learn the workflow for handling big datasets with BigQuery and SQL
+Learn the workflow for handling big datasets with BigQuery and SQL.
 
 2. [Select, From & Where](intro_to_sql/02-select-from-where.ipynb)  
-The foundational compontents for all SQL queries
+The foundational compontents for all SQL queries.
 
 3. [Group By, Having & Count](intro_to_sql/03-group-by-having-count.ipynb)   
-Get more interesting insights directly from your SQL queries
+Get more interesting insights directly from your SQL queries.
 
 4. [Order By](intro_to_sql/04-order-by.ipynb)  
 Order your results to focus on the most important data for your use case.
@@ -177,7 +177,22 @@ Order your results to focus on the most important data for your use case.
 Organize your query for better readability. This becomes especially important for complex queries.
 
 6. [Joining Data](intro_to_sql/06-joining-data.ipynb)  
-Combine data sources. Critical for almost all real-world data problems
+Combine data sources. Critical for almost all real-world data problems.
+
+
+## Advanced SQL
+
+1. [JOINs and UNIONs](advanced_sql/01-joins-and-unions.ipynb)   
+Combine information from multiple tables.
+
+2. [Analytic Functions](advanced_sql/02-analytic-functions.ipynb)  
+Perform complex calculations on groups of rows.
+
+3. [Nested and Repeated Data](advanced_sql/03-nested-and-repeated-data.ipynb)   
+Learn to query complex datatypes in BigQuery.
+
+4. [Writing Efficient Queries](advanced_sql/04-writing-efficient-queries.ipynb)  
+Write queries to run faster and use less data.
 
 
 ## Microchallenges
