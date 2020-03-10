@@ -134,7 +134,7 @@ You can make a lot of features. Here's how to get the best set of features for y
 
 ## Deep Learning
 
-1. [Intro to DL for Computer Vision](Deep%20Learning/1.%20Intro%20to%20DL%20for%20Computer%20Vision.ipynb)   
+1. [Intro to DL for Computer Vision](deep_learning/01-intro-to-dl-for-computer-vision.ipynb)   
 A quick overview of how models work on images.
 
 2. [Building Models From Convolutions](https://www.kaggle.com/dansbecker/building-models-from-convolutions)  
