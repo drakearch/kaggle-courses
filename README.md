@@ -161,22 +161,22 @@ Make your models faster and reduce overfitting
 
 ## Intro to SQL
 
-1. [Getting Started With SQL and BigQuery](Intro%20to%20SQL/1.%20Getting%20Started%20With%20SQL%20and%20BigQuery.ipynb)   
+1. [Getting Started With SQL and BigQuery](intro_to_sql/01-getting-started-with-sql-and-bigquery.ipynb)   
 Learn the workflow for handling big datasets with BigQuery and SQL
 
-2. [Select, From & Where](Intro%20to%20SQL/2.%20Select%2C%20From%20%26%20Where.ipynb)  
+2. [Select, From & Where](intro_to_sql/02-select-from-where.ipynb)  
 The foundational compontents for all SQL queries
 
-3. [Group By, Having & Count](Intro%20to%20SQL/3.%20Group%20By%2C%20Having%20%26%20Count.ipynb)   
+3. [Group By, Having & Count](intro_to_sql/03-group-by-having-count.ipynb)   
 Get more interesting insights directly from your SQL queries
 
-4. [Order By](Intro%20to%20SQL/4.%20Order%20By.ipynb)  
+4. [Order By](intro_to_sql/04-order-by.ipynb)  
 Order your results to focus on the most important data for your use case.
 
-5. [As & With](Intro%20to%20SQL/5.%20As%20%26%20With.ipynb)  
+5. [As & With](intro_to_sql/05-as-with.ipynb)  
 Organize your query for better readability. This becomes especially important for complex queries.
 
-6. [Joining Data](Intro%20to%20SQL/6.%20Joining%20Data.ipynb)  
+6. [Joining Data](intro_to_sql/06-joining-data.ipynb)  
 Combine data sources. Critical for almost all real-world data problems
 
 
