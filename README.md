@@ -140,22 +140,22 @@ A quick overview of how models work on images.
 2. [Building Models From Convolutions](https://www.kaggle.com/dansbecker/building-models-from-convolutions)  
 Scale up from simple building blocks to models with beyond human capabilities.
 
-3. [TensorFlow Programming](Deep%20Learning/3.%20TensorFlow%20Programming.ipynb)   
+3. [TensorFlow Programming](deep_learning/03-tensorflow-programming.ipynb)   
 Start writing code using TensorFlow and Keras
 
-4. [Transfer Learning](Deep%20Learning/4.%20Transfer%20Learning.ipynb)  
+4. [Transfer Learning](deep_learning/04-transfer-learning.ipynb)  
 A powerful technique to build highly accurate models even with limited data.
 
-5. [Data Augmentation](Deep%20Learning/5.%20Data%20Augmentation.ipynb)  
+5. [Data Augmentation](deep_learning/05-data-augmentation.ipynb)  
 Learn a simple trick that effectively increases amount of data available for model training.
 
 6. [A Deeper Understanding of Deep Learning](https://www.kaggle.com/dansbecker/a-deeper-understanding-of-deep-learning)  
 How Stochastic Gradient Descent and Back-Propagation train your deep learning model.
 
-7. [Deep Learning From Scratch](Deep%20Learning/7.%20Deep%20Learning%20From%20Scratch.ipynb)  
+7. [Deep Learning From Scratch](deep_learning/07-deep-learning-from-scratch.ipynb)  
 Build models without transfer learning. Especially important for uncommon image types.
 
-8. [Dropout and Strides for Larger Models](Deep%20Learning/8.%20Dropout%20and%20Strides%20for%20Larger%20Models.ipynb)  
+8. [Dropout and Strides for Larger Models](deep_learning/08-dropout-and-strides-for-larger-models.ipynb)  
 Make your models faster and reduce overfitting
 
 
