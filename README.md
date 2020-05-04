@@ -195,6 +195,24 @@ Learn to query complex datatypes in BigQuery.
 Write queries to run faster and use less data.
 
 
+## Geospatial Analysis
+
+1. [Your First Map](geospatial_analysis/01-your-first-map.ipynb)   
+Get started with plotting in GeoPandas.
+
+2. [Coordinate Reference Systems](geospatial_analysis/02-coordinate-reference-systems.ipynb)  
+It's pretty amazing that we can represent the Earth's surface in 2 dimensions!
+
+3. [Interactive Maps](geospatial_analysis/03-interactive-maps.ipynb)   
+Learn how to make interactive heatmaps, choropleth maps, and more!
+
+4. [Manipulating Geospatial Data](geospatial_analysis/04-manipulating-geospatial-data.ipynb)  
+Find locations with just the name of a place. And, learn how to join data based on spatial relationships.
+
+5. [Proximity Analysis](geospatial_analysis/05-proximity-analysis.ipynb)  
+Measure distance, and explore neighboring points on a map.
+
+
 ## Microchallenges
 
 1. [Blackjack Microchallenge](Microchallenges/1.%20Blackjack%20Microchallenge.ipynb)   
