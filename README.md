@@ -1,5 +1,29 @@
 # Kaggle Courses
 
+<!-- TOC -->
+
+- [Python](#python)
+- [Intro to Machine Learning](#intro-to-machine-learning)
+- [Intermediate Machine Learning](#intermediate-machine-learning)
+- [Pandas](#pandas)
+- [Data Visualization](#data-visualization)
+- [Feature Engineering](#feature-engineering)
+- [Data Cleaning](#data-cleaning)
+- [Intro to SQL](#intro-to-sql)
+- [Advanced SQL](#advanced-sql)
+- [Intro to AI Ethics](#intro-to-ai-ethics)
+- [Intro to Deep Learning](#intro-to-deep-learning)
+- [Deep Learning](#deep-learning)
+- [Computer Vision](#computer-vision)
+- [Geospatial Analysis](#geospatial-analysis)
+- [Machine Learning Explainability](#machine-learning-explainability)
+- [Microchallenges](#microchallenges)
+- [Natural Language Processing](#natural-language-processing)
+- [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
+
+<!-- /TOC -->
+
+
 ## Python
 
 1. [Hello, Python](python/01-syntax-variables-and-numbers.ipynb)  
@@ -72,6 +96,27 @@ The most accurate modeling technique for structured data
 Find and fix this problem that ruins your model in subtle ways
 
 
+## Pandas
+
+1. [Exercise: Creating, Reading and Writing](pandas/01-creating-reading-and-writing.ipynb)   
+You can't work with data if you can't read it. Get started here.
+
+2. [Exercise: Indexing, Selecting & Assigning](pandas/02-indexing-selecting-assigning.ipynb)  
+Pro data scientists do this dozens of times a day. You can, too!
+
+3. [Exercise: Summary Functions and Maps](pandas/03-summary-functions-and-maps.ipynb)   
+Extract insights from your data.
+
+4. [Exercise: Grouping and Sorting](pandas/04-grouping-and-sorting.ipynb)  
+Scale up your level of insight. The more complex the dataset, the more this matters
+
+5. [Exercise: Data Types and Missing Values](pandas/05-data-types-and-missing-values.ipynb)  
+Deal with the most common progress-blocking problems
+
+6. [Exercise: Renaming and Combining](pandas/06-renaming-and-combining.ipynb)  
+Data comes in from many sources. Help it all make sense together
+
+
 ## Data Visualization
 
 1. [Hello, Seaborn](data_visualization/01-hello-seaborn.ipynb)   
@@ -96,27 +141,6 @@ Customize your charts and make them look snazzy
 Practice for real-world application
 
 
-## Pandas
-
-1. [Exercise: Creating, Reading and Writing](pandas/01-creating-reading-and-writing.ipynb)   
-You can't work with data if you can't read it. Get started here.
-
-2. [Exercise: Indexing, Selecting & Assigning](pandas/02-indexing-selecting-assigning.ipynb)  
-Pro data scientists do this dozens of times a day. You can, too!
-
-3. [Exercise: Summary Functions and Maps](pandas/03-summary-functions-and-maps.ipynb)   
-Extract insights from your data.
-
-4. [Exercise: Grouping and Sorting](pandas/04-grouping-and-sorting.ipynb)  
-Scale up your level of insight. The more complex the dataset, the more this matters
-
-5. [Exercise: Data Types and Missing Values](pandas/05-data-types-and-missing-values.ipynb)  
-Deal with the most common progress-blocking problems
-
-6. [Exercise: Renaming and Combining](pandas/06-renaming-and-combining.ipynb)  
-Data comes in from many sources. Help it all make sense together
-
-
 ## Feature Engineering
 
 1. [Baseline Model](feature_engineering/01-baseline-model.ipynb)   
@@ -132,31 +156,7 @@ The frequently useful case where you can combine data from multiple rows into us
 You can make a lot of features. Here's how to get the best set of features for your model.
 
 
-## Deep Learning
-
-1. [Intro to DL for Computer Vision](deep_learning/01-intro-to-dl-for-computer-vision.ipynb)   
-A quick overview of how models work on images.
-
-2. [Building Models From Convolutions](https://www.kaggle.com/dansbecker/building-models-from-convolutions)  
-Scale up from simple building blocks to models with beyond human capabilities.
-
-3. [TensorFlow Programming](deep_learning/03-tensorflow-programming.ipynb)   
-Start writing code using TensorFlow and Keras
-
-4. [Transfer Learning](deep_learning/04-transfer-learning.ipynb)  
-A powerful technique to build highly accurate models even with limited data.
-
-5. [Data Augmentation](deep_learning/05-data-augmentation.ipynb)  
-Learn a simple trick that effectively increases amount of data available for model training.
-
-6. [A Deeper Understanding of Deep Learning](https://www.kaggle.com/dansbecker/a-deeper-understanding-of-deep-learning)  
-How Stochastic Gradient Descent and Back-Propagation train your deep learning model.
-
-7. [Deep Learning From Scratch](deep_learning/07-deep-learning-from-scratch.ipynb)  
-Build models without transfer learning. Especially important for uncommon image types.
-
-8. [Dropout and Strides for Larger Models](deep_learning/08-dropout-and-strides-for-larger-models.ipynb)  
-Make your models faster and reduce overfitting
+## Data Cleaning
 
 
 ## Intro to SQL
@@ -195,6 +195,42 @@ Learn to query complex datatypes in BigQuery.
 Write queries to run faster and use less data.
 
 
+## Intro to AI Ethics
+
+
+## Intro to Deep Learning
+
+
+## Deep Learning
+
+1. [Intro to DL for Computer Vision](deep_learning/01-intro-to-dl-for-computer-vision.ipynb)   
+A quick overview of how models work on images.
+
+2. [Building Models From Convolutions](https://www.kaggle.com/dansbecker/building-models-from-convolutions)  
+Scale up from simple building blocks to models with beyond human capabilities.
+
+3. [TensorFlow Programming](deep_learning/03-tensorflow-programming.ipynb)   
+Start writing code using TensorFlow and Keras
+
+4. [Transfer Learning](deep_learning/04-transfer-learning.ipynb)  
+A powerful technique to build highly accurate models even with limited data.
+
+5. [Data Augmentation](deep_learning/05-data-augmentation.ipynb)  
+Learn a simple trick that effectively increases amount of data available for model training.
+
+6. [A Deeper Understanding of Deep Learning](https://www.kaggle.com/dansbecker/a-deeper-understanding-of-deep-learning)  
+How Stochastic Gradient Descent and Back-Propagation train your deep learning model.
+
+7. [Deep Learning From Scratch](deep_learning/07-deep-learning-from-scratch.ipynb)  
+Build models without transfer learning. Especially important for uncommon image types.
+
+8. [Dropout and Strides for Larger Models](deep_learning/08-dropout-and-strides-for-larger-models.ipynb)  
+Make your models faster and reduce overfitting
+
+
+## Computer Vision
+
+
 ## Geospatial Analysis
 
 1. [Your First Map](geospatial_analysis/01-your-first-map.ipynb)   
@@ -213,6 +249,24 @@ Find locations with just the name of a place. And, learn how to join data based 
 Measure distance, and explore neighboring points on a map.
 
 
+## Machine Learning Explainability
+
+1. [Use Cases for Model Insights](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)   
+Why and when do you need insights?
+
+2. [Permutation Importance](machine_learning_explainability/02-permutation-importance.ipynb)   
+What features does your model think are important?
+
+3. [Partial Plots](machine_learning_explainability/03-partial-plots.ipynb)   
+How does each feature affect your predictions?
+
+4. [SHAP Values](machine_learning_explainability/04-shap-values.ipynb)   
+Understand individual predictions
+
+5. [Advanced Uses of SHAP Values](machine_learning_explainability/05-advanced-uses-of-shap-values.ipynb)  
+Aggregate SHAP values for even more detailed model insights
+
+
 ## Microchallenges
 
 1. [Blackjack Microchallenge](Microchallenges/1.%20Blackjack%20Microchallenge.ipynb)   
@@ -222,21 +276,7 @@ Test your logic and programming skills with by building a better BlackJack playe
 Can you set the best airfare prices in our Airline Sales simulator  
 
 
-## Machine Learning Explainability
-
-1. [Use Cases for Model Insights](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)   
-Why and when do you need insights?
-
-2. [Permutation Importance](Machine%20Learning%20Explainability/2.%20Permutation%20Importance.ipynb)  
-What features does your model think are important?
-
-3. [Partial Plots](Machine%20Learning%20Explainability/3.%20Partial%20Plots.ipynb)   
-How does each feature affect your predictions?
-
-4. [SHAP Values](Machine%20Learning%20Explainability/4.%20SHAP%20Values.ipynb)  
-Understand individual predictions
-
-5. [Advanced Uses of SHAP Values](Machine%20Learning%20Explainability/5.%20Advanced%20Uses%20of%20SHAP%20Values.ipynb)  
-Aggregate SHAP values for even more detailed model insights
+## Natural Language Processing
 
 
+## Intro to Game AI and Reinforcement Learning
