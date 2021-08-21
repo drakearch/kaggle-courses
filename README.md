@@ -269,10 +269,10 @@ Aggregate SHAP values for even more detailed model insights
 
 ## Microchallenges
 
-1. [Blackjack Microchallenge](Microchallenges/1.%20Blackjack%20Microchallenge.ipynb)   
+1. [Blackjack Microchallenge](microchallenges/01-blackjack-microchallenge.ipynb)   
 Test your logic and programming skills with by building a better BlackJack player
 
-2. [Airline Price Optimization Micro-Challenge](Microchallenges/2.%20Airline%20Price%20Optimization%20Micro-Challenge.ipynb)  
+2. [Airline Price Optimization Micro-Challenge](microchallenges/02-airline-price-optimization-micro-challenge.ipynb)  
 Can you set the best airfare prices in our Airline Sales simulator  
 
 
