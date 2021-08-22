@@ -158,6 +158,21 @@ You can make a lot of features. Here's how to get the best set of features for y
 
 ## Data Cleaning
 
+1. [Handling Missing Values](data_cleaning/01-handling-missing-values.ipynb)   
+Drop missing values, or fill them in with an automated workflow.
+
+2. [Scaling and Normalization](data_cleaning/02-scaling-and-normalization.ipynb)   
+Transform numeric variables to have helpful properties.
+
+3. [Parsing Dates](data_cleaning/03-parsing-dates.ipynb)   
+Help Python recognize dates as composed of day, month, and year.
+
+4. [Character Encodings](data_cleaning/04-character-encodings.ipynb)   
+Avoid UnicodeDecodeErrors when loading CSV files.
+
+5. [Inconsistent Data Entry](data_cleaning/05-inconsistent-data-entry.ipynb)   
+Efficiently fix typos in your data.
+
 
 ## Intro to SQL
 
