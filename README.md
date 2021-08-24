@@ -27,40 +27,40 @@
 ## Python
 
 1. [Hello, Python](python/01-syntax-variables-and-numbers.ipynb)  
-A quick introduction to Python syntax, variable assignment, and numbers
+A quick introduction to Python syntax, variable assignment, and numbers.
 
 2. [Functions and Getting Help](python/02-functions-and-getting-help.ipynb)  
-Calling functions and defining our own, and using Python's builtin documentation
+Calling functions and defining our own, and using Python's builtin documentation.
 
 3. [Booleans and Conditionals](python/03-booleans-and-conditionals.ipynb)  
-Using booleans for branching logic
+Using booleans for branching logic.
 
 4. [Lists and Tuples](python/04-lists.ipynb)  
-Lists and the things you can do with them. Includes indexing, slicing and mutating
+Lists and the things you can do with them. Includes indexing, slicing and mutating.
 
 5. [Loops and List Comprehensions](python/05-loops-and-list-comprehensions.ipynb)  
-For and while loops, and a much-loved Python feature: list comprehensions
+For and while loops, and a much-loved Python feature: list comprehensions.
 
 6. [Strings and Dictionaries](python/06-strings-and-dictionaries.ipynb)  
-Working with strings and dictionaries, two fundamental Python data types
+Working with strings and dictionaries, two fundamental Python data types.
 
 7. [Working with External Libraries](python/07-working-with-external-libraries.ipynb)  
-Imports, operator overloading, and survival tips for venturing into the world of external libraries
+Imports, operator overloading, and survival tips for venturing into the world of external libraries.
 
 
 ## Intro to Machine Learning
 
 1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
-The first step if you're new to machine learning
+The first step if you're new to machine learning.
 
 2. [Basic Data Exploration](intro_to_machine_learning/02-explore-your-data.ipynb)  
-Load and understand your data
+Load and understand your data.
 
 3. [Your First Machine Learning Model](intro_to_machine_learning/03-your-first-machine-learning-model.ipynb)   
 Building your first model. Hurray!
 
 4. [Model Validation](intro_to_machine_learning/04-model-validation.ipynb)  
-Measure the performance of your model ? so you can test and compare alternatives
+Measure the performance of your model ? so you can test and compare alternatives.
 
 1. [Underfitting and Overfitting](intro_to_machine_learning/05-underfitting-and-overfitting.ipynb)  
 Fine-tune your model for better performance.
@@ -69,31 +69,31 @@ Fine-tune your model for better performance.
 Using a more sophisticated machine learning algorithm.
 
 7. [Exercise: Machine Learning Competitions](intro_to_machine_learning/07-machine-learning-competitions.ipynb)  
-Enter the world of machine learning competitions to keep improving and see your progress
+Enter the world of machine learning competitions to keep improving and see your progress.
 
 
 ## Intermediate Machine Learning
 
 1. [Introduction](intermediate_machine_learning/01-introduction.ipynb)   
-Review what you need for this Micro-Course
+Review what you need for this Micro-Course.
 
 2. [Missing Values](intermediate_machine_learning/02-missing-values.ipynb)  
 Missing values happen. Be prepared for this common challenge in real datasets.
 
 3. [Categorical Variables](intermediate_machine_learning/03-categorical-variables.ipynb)   
-There's a lot of non-numeric data out there. Here's how to use it for machine learning
+There's a lot of non-numeric data out there. Here's how to use it for machine learning.
 
 4. [Pipelines](intermediate_machine_learning/04-pipelines.ipynb)  
-A critical skill for deploying (and even testing) complex models with pre-processing
+A critical skill for deploying (and even testing) complex models with pre-processing.
 
 5. [Cross-Validation](intermediate_machine_learning/05-cross-validation.ipynb)  
-A better way to test your models
+A better way to test your models.
 
 6. [XGBoost](intermediate_machine_learning/06-xgboost.ipynb)  
-The most accurate modeling technique for structured data
+The most accurate modeling technique for structured data.
 
 7. [Data Leakage](intermediate_machine_learning/07-data-leakage.ipynb)  
-Find and fix this problem that ruins your model in subtle ways
+Find and fix this problem that ruins your model in subtle ways.
 
 
 ## Pandas
@@ -108,37 +108,37 @@ Pro data scientists do this dozens of times a day. You can, too!
 Extract insights from your data.
 
 4. [Exercise: Grouping and Sorting](pandas/04-grouping-and-sorting.ipynb)  
-Scale up your level of insight. The more complex the dataset, the more this matters
+Scale up your level of insight. The more complex the dataset, the more this matters.
 
 5. [Exercise: Data Types and Missing Values](pandas/05-data-types-and-missing-values.ipynb)  
-Deal with the most common progress-blocking problems
+Deal with the most common progress-blocking problems.
 
 6. [Exercise: Renaming and Combining](pandas/06-renaming-and-combining.ipynb)  
-Data comes in from many sources. Help it all make sense together
+Data comes in from many sources. Help it all make sense together.
 
 
 ## Data Visualization
 
 1. [Hello, Seaborn](data_visualization/01-hello-seaborn.ipynb)   
-Your first introduction to coding for data visualization
+Your first introduction to coding for data visualization.
 
 2. [Line Charts](data_visualization/02-line-charts.ipynb)  
-Visualize trends over time
+Visualize trends over time.
 
 3. [Bar Charts and Heatmaps](data_visualization/03-bar-charts-and-heatmaps.ipynb)   
-Use color or length to compare categories in a dataset
+Use color or length to compare categories in a dataset.
 
 4. [Scatter Plots](data_visualization/04-scatter-plots.ipynb)  
-Leverage the coordinate plane to explore relationships between variables
+Leverage the coordinate plane to explore relationships between variables.
 
 5. [Distributions](data_visualization/05-distributions.ipynb)  
-Create histograms and density plots
+Create histograms and density plots.
 
 6. [Choosing Plot Types and Custom Styles](data_visualization/06-choosing-plot-types-and-custom-styles.ipynb)  
-Customize your charts and make them look snazzy
+Customize your charts and make them look snazzy.
 
 7. [Final Project](data_visualization/07-final-project.ipynb)  
-Practice for real-world application
+Practice for real-world application.
 
 
 ## Feature Engineering
@@ -225,7 +225,7 @@ A quick overview of how models work on images.
 Scale up from simple building blocks to models with beyond human capabilities.
 
 3. [TensorFlow Programming](deep_learning/03-tensorflow-programming.ipynb)   
-Start writing code using TensorFlow and Keras
+Start writing code using TensorFlow and Keras.
 
 4. [Transfer Learning](deep_learning/04-transfer-learning.ipynb)  
 A powerful technique to build highly accurate models even with limited data.
@@ -240,7 +240,7 @@ How Stochastic Gradient Descent and Back-Propagation train your deep learning mo
 Build models without transfer learning. Especially important for uncommon image types.
 
 8. [Dropout and Strides for Larger Models](deep_learning/08-dropout-and-strides-for-larger-models.ipynb)  
-Make your models faster and reduce overfitting
+Make your models faster and reduce overfitting.
 
 
 ## Computer Vision
@@ -276,22 +276,31 @@ What features does your model think are important?
 How does each feature affect your predictions?
 
 4. [SHAP Values](machine_learning_explainability/04-shap-values.ipynb)   
-Understand individual predictions
+Understand individual predictions.
 
 5. [Advanced Uses of SHAP Values](machine_learning_explainability/05-advanced-uses-of-shap-values.ipynb)  
-Aggregate SHAP values for even more detailed model insights
+Aggregate SHAP values for even more detailed model insights.
 
 
 ## Microchallenges
 
 1. [Blackjack Microchallenge](microchallenges/01-blackjack-microchallenge.ipynb)   
-Test your logic and programming skills with by building a better BlackJack player
+Test your logic and programming skills with by building a better BlackJack player.
 
 2. [Airline Price Optimization Micro-Challenge](microchallenges/02-airline-price-optimization-micro-challenge.ipynb)  
-Can you set the best airfare prices in our Airline Sales simulator  
+Can you set the best airfare prices in our Airline Sales simulator.
 
 
 ## Natural Language Processing
+
+1. [Intro to NLP](natural_language_processing/01-intro-to-nlp.ipynb)   
+Get started with NLP.
+
+2. [Text Classification](natural_language_processing/02-text-classification.ipynb)   
+Combine machine learning with your newfound NLP skills.
+
+3. [Word Vectors](natural_language_processing/03-word-vectors.ipynb)   
+Explore an idea that ushered in a new generation of NLP techniques.
 
 
 ## Intro to Game AI and Reinforcement Learning
