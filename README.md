@@ -304,3 +304,15 @@ Explore an idea that ushered in a new generation of NLP techniques.
 
 
 ## Intro to Game AI and Reinforcement Learning
+
+1. [Play the Game](intro_to_game_ai_and_reinforcement_learning/01-play-the-game.ipynb)   
+Write your first game-playing agent.
+
+2. [One-Step Lookahead](intro_to_game_ai_and_reinforcement_learning/02-one-step-lookahead.ipynb)   
+Make your agent smarter with a few simple changes.
+
+3. [N-Step Lookahead](intro_to_game_ai_and_reinforcement_learning/03-n-step-lookahead.ipynb)   
+Use the minimax algorithm to dramatically improve your agent.
+
+4. [Deep Reinforcement Learning](intro_to_game_ai_and_reinforcement_learning/04-deep-reinforcement-learning.ipynb)   
+Explore advanced techniques for creating intelligent agents.
