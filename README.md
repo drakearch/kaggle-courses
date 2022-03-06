@@ -212,6 +212,21 @@ Write queries to run faster and use less data.
 
 ## Intro to AI Ethics
 
+1. [Introduction to AI Ethics](https://www.kaggle.com/var0101/introduction-to-ai-ethics)   
+Learn what to expect from the course.
+
+2. [Human-Centered Design for AI](intro_to_ai_ethics/02-human-centered-design-for-ai.ipynb)   
+Design systems that serve people’s needs.  Navigate issues in several real-world scenarios.
+
+3. [Identifying Bias in AI](intro_to_ai_ethics/03-identifying-bias-in-ai.ipynb)   
+Bias can creep in at any stage in the pipeline. Investigate a simple model that identifies toxic text.
+
+4. [AI Fairness](intro_to_ai_ethics/04-ai-fairness.ipynb)   
+Learn about four different types of fairness.  Assess a toy model trained to judge credit card applications.
+
+5. [Model Cards](intro_to_ai_ethics/05-model-cards.ipynb)   
+Increase transparency by communicating key information about machine learning models.
+
 
 ## Intro to Deep Learning
 
