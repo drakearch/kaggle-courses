@@ -1,27 +1,24 @@
 # Kaggle Courses
 
-<!-- TOC -->
-
 - [Python](#python)
-- [Intro to Machine Learning](#intro-to-machine-learning)
-- [Intermediate Machine Learning](#intermediate-machine-learning)
 - [Pandas](#pandas)
 - [Data Visualization](#data-visualization)
-- [Feature Engineering](#feature-engineering)
+- [Intro to Machine Learning](#intro-to-machine-learning)
+- [Intermediate Machine Learning](#intermediate-machine-learning)
 - [Data Cleaning](#data-cleaning)
-- [Intro to SQL](#intro-to-sql)
-- [Advanced SQL](#advanced-sql)
+- [Feature Engineering](#feature-engineering)
+- [Geospatial Analysis](#geospatial-analysis)
+- [Time Series](#time-series)
+- [Machine Learning Explainability](#machine-learning-explainability)
 - [Intro to AI Ethics](#intro-to-ai-ethics)
 - [Intro to Deep Learning](#intro-to-deep-learning)
 - [Deep Learning](#deep-learning)
 - [Computer Vision](#computer-vision)
-- [Geospatial Analysis](#geospatial-analysis)
-- [Machine Learning Explainability](#machine-learning-explainability)
-- [Microchallenges](#microchallenges)
 - [Natural Language Processing](#natural-language-processing)
 - [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
-
-<!-- /TOC -->
+- [Intro to SQL](#intro-to-sql)
+- [Advanced SQL](#advanced-sql)
+- [Microchallenges](#microchallenges)
 
 
 ## Python
@@ -46,6 +43,51 @@ Working with strings and dictionaries, two fundamental Python data types.
 
 7. [Working with External Libraries](python/07-working-with-external-libraries.ipynb)  
 Imports, operator overloading, and survival tips for venturing into the world of external libraries.
+
+
+## Pandas
+
+1. [Exercise: Creating, Reading and Writing](pandas/01-creating-reading-and-writing.ipynb)   
+You can't work with data if you can't read it. Get started here.
+
+2. [Exercise: Indexing, Selecting & Assigning](pandas/02-indexing-selecting-assigning.ipynb)  
+Pro data scientists do this dozens of times a day. You can, too!
+
+3. [Exercise: Summary Functions and Maps](pandas/03-summary-functions-and-maps.ipynb)   
+Extract insights from your data.
+
+4. [Exercise: Grouping and Sorting](pandas/04-grouping-and-sorting.ipynb)  
+Scale up your level of insight. The more complex the dataset, the more this matters.
+
+5. [Exercise: Data Types and Missing Values](pandas/05-data-types-and-missing-values.ipynb)  
+Deal with the most common progress-blocking problems.
+
+6. [Exercise: Renaming and Combining](pandas/06-renaming-and-combining.ipynb)  
+Data comes in from many sources. Help it all make sense together.
+
+
+## Data Visualization
+
+1. [Hello, Seaborn](data_visualization/01-hello-seaborn.ipynb)   
+Your first introduction to coding for data visualization.
+
+2. [Line Charts](data_visualization/02-line-charts.ipynb)  
+Visualize trends over time.
+
+3. [Bar Charts and Heatmaps](data_visualization/03-bar-charts-and-heatmaps.ipynb)   
+Use color or length to compare categories in a dataset.
+
+4. [Scatter Plots](data_visualization/04-scatter-plots.ipynb)  
+Leverage the coordinate plane to explore relationships between variables.
+
+5. [Distributions](data_visualization/05-distributions.ipynb)  
+Create histograms and density plots.
+
+6. [Choosing Plot Types and Custom Styles](data_visualization/06-choosing-plot-types-and-custom-styles.ipynb)  
+Customize your charts and make them look snazzy.
+
+7. [Final Project](data_visualization/07-final-project.ipynb)  
+Practice for real-world application.
 
 
 ## Intro to Machine Learning
@@ -96,66 +138,6 @@ The most accurate modeling technique for structured data.
 Find and fix this problem that ruins your model in subtle ways.
 
 
-## Pandas
-
-1. [Exercise: Creating, Reading and Writing](pandas/01-creating-reading-and-writing.ipynb)   
-You can't work with data if you can't read it. Get started here.
-
-2. [Exercise: Indexing, Selecting & Assigning](pandas/02-indexing-selecting-assigning.ipynb)  
-Pro data scientists do this dozens of times a day. You can, too!
-
-3. [Exercise: Summary Functions and Maps](pandas/03-summary-functions-and-maps.ipynb)   
-Extract insights from your data.
-
-4. [Exercise: Grouping and Sorting](pandas/04-grouping-and-sorting.ipynb)  
-Scale up your level of insight. The more complex the dataset, the more this matters.
-
-5. [Exercise: Data Types and Missing Values](pandas/05-data-types-and-missing-values.ipynb)  
-Deal with the most common progress-blocking problems.
-
-6. [Exercise: Renaming and Combining](pandas/06-renaming-and-combining.ipynb)  
-Data comes in from many sources. Help it all make sense together.
-
-
-## Data Visualization
-
-1. [Hello, Seaborn](data_visualization/01-hello-seaborn.ipynb)   
-Your first introduction to coding for data visualization.
-
-2. [Line Charts](data_visualization/02-line-charts.ipynb)  
-Visualize trends over time.
-
-3. [Bar Charts and Heatmaps](data_visualization/03-bar-charts-and-heatmaps.ipynb)   
-Use color or length to compare categories in a dataset.
-
-4. [Scatter Plots](data_visualization/04-scatter-plots.ipynb)  
-Leverage the coordinate plane to explore relationships between variables.
-
-5. [Distributions](data_visualization/05-distributions.ipynb)  
-Create histograms and density plots.
-
-6. [Choosing Plot Types and Custom Styles](data_visualization/06-choosing-plot-types-and-custom-styles.ipynb)  
-Customize your charts and make them look snazzy.
-
-7. [Final Project](data_visualization/07-final-project.ipynb)  
-Practice for real-world application.
-
-
-## Feature Engineering
-
-1. [Baseline Model](feature_engineering/01-baseline-model.ipynb)   
-Building a baseline model as a starting point for feature engineering.
-
-2. [Categorical Encodings](feature_engineering/02-categorical-encodings.ipynb)  
-There are many ways to encode categorical data for modeling. Some are pretty clever.
-
-3. [Feature Generation](feature_engineering/03-feature-generation.ipynb)    
-The frequently useful case where you can combine data from multiple rows into useful features.
-
-4. [Feature Selection](feature_engineering/04-feature-selection.ipynb)  
-You can make a lot of features. Here's how to get the best set of features for your model.
-
-
 ## Data Cleaning
 
 1. [Handling Missing Values](data_cleaning/01-handling-missing-values.ipynb)   
@@ -174,40 +156,76 @@ Avoid UnicodeDecodeErrors when loading CSV files.
 Efficiently fix typos in your data.
 
 
-## Intro to SQL
+## Feature Engineering
 
-1. [Getting Started With SQL and BigQuery](intro_to_sql/01-getting-started-with-sql-and-bigquery.ipynb)   
-Learn the workflow for handling big datasets with BigQuery and SQL.
+1. [Baseline Model](feature_engineering/01-baseline-model.ipynb)   
+Building a baseline model as a starting point for feature engineering.
 
-2. [Select, From & Where](intro_to_sql/02-select-from-where.ipynb)  
-The foundational compontents for all SQL queries.
+2. [Categorical Encodings](feature_engineering/02-categorical-encodings.ipynb)  
+There are many ways to encode categorical data for modeling. Some are pretty clever.
 
-3. [Group By, Having & Count](intro_to_sql/03-group-by-having-count.ipynb)   
-Get more interesting insights directly from your SQL queries.
+3. [Feature Generation](feature_engineering/03-feature-generation.ipynb)    
+The frequently useful case where you can combine data from multiple rows into useful features.
 
-4. [Order By](intro_to_sql/04-order-by.ipynb)  
-Order your results to focus on the most important data for your use case.
-
-5. [As & With](intro_to_sql/05-as-with.ipynb)  
-Organize your query for better readability. This becomes especially important for complex queries.
-
-6. [Joining Data](intro_to_sql/06-joining-data.ipynb)  
-Combine data sources. Critical for almost all real-world data problems.
+4. [Feature Selection](feature_engineering/04-feature-selection.ipynb)  
+You can make a lot of features. Here's how to get the best set of features for your model.
 
 
-## Advanced SQL
+## Geospatial Analysis
 
-1. [JOINs and UNIONs](advanced_sql/01-joins-and-unions.ipynb)   
-Combine information from multiple tables.
+1. [Your First Map](geospatial_analysis/01-your-first-map.ipynb)   
+Get started with plotting in GeoPandas.
 
-2. [Analytic Functions](advanced_sql/02-analytic-functions.ipynb)  
-Perform complex calculations on groups of rows.
+2. [Coordinate Reference Systems](geospatial_analysis/02-coordinate-reference-systems.ipynb)  
+It's pretty amazing that we can represent the Earth's surface in 2 dimensions!
 
-3. [Nested and Repeated Data](advanced_sql/03-nested-and-repeated-data.ipynb)   
-Learn to query complex datatypes in BigQuery.
+3. [Interactive Maps](geospatial_analysis/03-interactive-maps.ipynb)   
+Learn how to make interactive heatmaps, choropleth maps, and more!
 
-4. [Writing Efficient Queries](advanced_sql/04-writing-efficient-queries.ipynb)  
-Write queries to run faster and use less data.
+4. [Manipulating Geospatial Data](geospatial_analysis/04-manipulating-geospatial-data.ipynb)  
+Find locations with just the name of a place. And, learn how to join data based on spatial relationships.
+
+5. [Proximity Analysis](geospatial_analysis/05-proximity-analysis.ipynb)  
+Measure distance, and explore neighboring points on a map.
+
+
+## Time Series
+
+1. [Linear Regression With Time Series](time_series/01-linear-regression-with-time-series.ipynb)   
+Use two features unique to time series: lags and time steps.
+
+2. [Trend](time_series/02-trend.ipynb)   
+Model long-term changes with moving averages and the time dummy.
+
+3. [Seasonality](time_series/03-seasonality.ipynb)   
+Create indicators and Fourier features to capture periodic change.
+
+4. [Time Series as Features](time_series/04-time-series-as-features.ipynb)   
+Predict the future from the past with a lag embedding.
+
+5. [Hybrid Models](time_series/05-hybrid-models.ipynb)   
+Combine the strengths of two forecasters with this powerful technique.
+
+6. [Forecasting With Machine Learning](time_series/06-forecasting-with-machine-learning.ipynb)   
+Apply ML to any forecasting task with these four strategies.
+
+
+## Machine Learning Explainability
+
+1. [Use Cases for Model Insights](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)   
+Why and when do you need insights?
+
+2. [Permutation Importance](machine_learning_explainability/02-permutation-importance.ipynb)   
+What features does your model think are important?
+
+3. [Partial Plots](machine_learning_explainability/03-partial-plots.ipynb)   
+How does each feature affect your predictions?
+
+4. [SHAP Values](machine_learning_explainability/04-shap-values.ipynb)   
+Understand individual predictions.
+
+5. [Advanced Uses of SHAP Values](machine_learning_explainability/05-advanced-uses-of-shap-values.ipynb)  
+Aggregate SHAP values for even more detailed model insights.
 
 
 ## Intro to AI Ethics
@@ -303,51 +321,6 @@ Use Kaggle's free TPUs to make a submission to the Petals to the Metal competiti
 Use Kaggle's free TPUs to make a submission to the Cassava Leaf Disease Classification competition.
 
 
-## Geospatial Analysis
-
-1. [Your First Map](geospatial_analysis/01-your-first-map.ipynb)   
-Get started with plotting in GeoPandas.
-
-2. [Coordinate Reference Systems](geospatial_analysis/02-coordinate-reference-systems.ipynb)  
-It's pretty amazing that we can represent the Earth's surface in 2 dimensions!
-
-3. [Interactive Maps](geospatial_analysis/03-interactive-maps.ipynb)   
-Learn how to make interactive heatmaps, choropleth maps, and more!
-
-4. [Manipulating Geospatial Data](geospatial_analysis/04-manipulating-geospatial-data.ipynb)  
-Find locations with just the name of a place. And, learn how to join data based on spatial relationships.
-
-5. [Proximity Analysis](geospatial_analysis/05-proximity-analysis.ipynb)  
-Measure distance, and explore neighboring points on a map.
-
-
-## Machine Learning Explainability
-
-1. [Use Cases for Model Insights](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)   
-Why and when do you need insights?
-
-2. [Permutation Importance](machine_learning_explainability/02-permutation-importance.ipynb)   
-What features does your model think are important?
-
-3. [Partial Plots](machine_learning_explainability/03-partial-plots.ipynb)   
-How does each feature affect your predictions?
-
-4. [SHAP Values](machine_learning_explainability/04-shap-values.ipynb)   
-Understand individual predictions.
-
-5. [Advanced Uses of SHAP Values](machine_learning_explainability/05-advanced-uses-of-shap-values.ipynb)  
-Aggregate SHAP values for even more detailed model insights.
-
-
-## Microchallenges
-
-1. [Blackjack Microchallenge](microchallenges/01-blackjack-microchallenge.ipynb)   
-Test your logic and programming skills with by building a better BlackJack player.
-
-2. [Airline Price Optimization Micro-Challenge](microchallenges/02-airline-price-optimization-micro-challenge.ipynb)  
-Can you set the best airfare prices in our Airline Sales simulator.
-
-
 ## Natural Language Processing
 
 1. [Intro to NLP](natural_language_processing/01-intro-to-nlp.ipynb)   
@@ -373,3 +346,48 @@ Use the minimax algorithm to dramatically improve your agent.
 
 4. [Deep Reinforcement Learning](intro_to_game_ai_and_reinforcement_learning/04-deep-reinforcement-learning.ipynb)   
 Explore advanced techniques for creating intelligent agents.
+
+
+## Intro to SQL
+
+1. [Getting Started With SQL and BigQuery](intro_to_sql/01-getting-started-with-sql-and-bigquery.ipynb)   
+Learn the workflow for handling big datasets with BigQuery and SQL.
+
+2. [Select, From & Where](intro_to_sql/02-select-from-where.ipynb)  
+The foundational compontents for all SQL queries.
+
+3. [Group By, Having & Count](intro_to_sql/03-group-by-having-count.ipynb)   
+Get more interesting insights directly from your SQL queries.
+
+4. [Order By](intro_to_sql/04-order-by.ipynb)  
+Order your results to focus on the most important data for your use case.
+
+5. [As & With](intro_to_sql/05-as-with.ipynb)  
+Organize your query for better readability. This becomes especially important for complex queries.
+
+6. [Joining Data](intro_to_sql/06-joining-data.ipynb)  
+Combine data sources. Critical for almost all real-world data problems.
+
+
+## Advanced SQL
+
+1. [JOINs and UNIONs](advanced_sql/01-joins-and-unions.ipynb)   
+Combine information from multiple tables.
+
+2. [Analytic Functions](advanced_sql/02-analytic-functions.ipynb)  
+Perform complex calculations on groups of rows.
+
+3. [Nested and Repeated Data](advanced_sql/03-nested-and-repeated-data.ipynb)   
+Learn to query complex datatypes in BigQuery.
+
+4. [Writing Efficient Queries](advanced_sql/04-writing-efficient-queries.ipynb)  
+Write queries to run faster and use less data.
+
+
+## Microchallenges
+
+1. [Blackjack Microchallenge](microchallenges/01-blackjack-microchallenge.ipynb)   
+Test your logic and programming skills with by building a better BlackJack player.
+
+2. [Airline Price Optimization Micro-Challenge](microchallenges/02-airline-price-optimization-micro-challenge.ipynb)  
+Can you set the best airfare prices in our Airline Sales simulator.
