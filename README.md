@@ -6,6 +6,7 @@
 - [Intro to Machine Learning](#intro-to-machine-learning)
 - [Intermediate Machine Learning](#intermediate-machine-learning)
 - [Data Cleaning](#data-cleaning)
+- [Feature Engineering](#feature-engineering)
 - [Feature Engineering (2019)](#feature-engineering-2019)
 - [Geospatial Analysis](#geospatial-analysis)
 - [Time Series](#time-series)
@@ -154,6 +155,30 @@ Avoid UnicodeDecodeErrors when loading CSV files.
 
 5. [Inconsistent Data Entry](data_cleaning/05-inconsistent-data-entry.ipynb)   
 Efficiently fix typos in your data.
+
+
+## Feature Engineering
+
+1. [What Is Feature Engineering](https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering)   
+Learn the steps and principles of creating better features
+
+2. [Mutual Information](feature_engineering/02-mutual-information.ipynb)   
+Locate features with the most potential.
+
+3. [Creating Features](feature_engineering/03-creating-features.ipynb)   
+Transform features with Pandas to suit your model.
+
+4. [Clustering With K-Means](feature_engineering/04-clustering-with-k-means.ipynb)   
+Untangle complex spatial relationships with cluster labels.
+
+5. [Principal Component Analysis](feature_engineering/05-principal-component-analysis.ipynb)   
+Discover new features by analyzing variation.
+
+6. [Target Encoding](feature_engineering/06-target-encoding.ipynb)   
+Boost any categorical feature with this powerful technique.
+
+7. [Feature Engineering for House Prices](https://www.kaggle.com/code/ryanholbrook/feature-engineering-for-house-prices)   
+Apply what you've learned, and join the House Prices competition!
 
 
 ## Feature Engineering (2019)
